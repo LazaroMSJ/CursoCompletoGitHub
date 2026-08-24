@@ -1,2 +1,2 @@
 # CursoCompletoGitHub
-Testando atualizacaa no README
+A versão deste repositório é v1.0
